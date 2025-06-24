@@ -22,6 +22,7 @@ Frequent paper jams, even when using the right type and size of paper, could ind
 ===================================
 When your Brother printer shows “No Cartridge” or “Cartridge Error” even after installing genuine toner/ink, it’s best to call. Support agents can determine if it’s a faulty cartridge, firmware issue, or sensor problem.
 
+
 5. The Printer Is Making Strange Noises
 ===================================
 Buzzing, grinding, or clicking sounds during printing are not normal. These sounds may point to issues with the drum, fuser unit, or internal gears. A call to customer service will help you identify if servicing or part replacement is required.
